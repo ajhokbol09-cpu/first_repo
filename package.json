@@ -1,0 +1,9 @@
+{
+  "name": "trivia-cli-game",
+  "version": "1.0.0",
+  "description": "A terminal-based trivia game built with JavaScript",
+  "main": "trivia.js",
+  "scripts": {
+    "start": "node trivia.js"
+  }
+}
